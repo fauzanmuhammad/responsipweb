@@ -1,0 +1,14 @@
+gergaji|fauzan|jogja
+BOR|FAUZAN|JOGJA
+BOR|FAUZAN|JOGJA
+|fauzan|jogja
+jogja||fauzan
+jogja||fauzan
+|fauzan|jogja
+|fauzan|bengkulu
+|gundul|kulong
+sabu|gundul|kulong
+gergaji|fauzan|bengkulu
+BOR|CLOE|SUMBAR
+BOR|FAUZAN|LOLO
+SEMEN|HULU|KOKO
